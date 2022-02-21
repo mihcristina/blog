@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body { 
+    background: -webkit-linear-gradient(90deg, rgb(207, 186, 235), rgb(47, 20, 78));
+    background: linear-gradient(90deg, rgb(207, 186, 235), rgb(47, 20, 78));
+    font-family: 'Roboto', sans-serif;
+    color: white;
+}
+header {
+    text-align: center;
+    padding: 2%;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+
+}
+
+ul li {
+    text-decoration: none;
+    list-style: none;
+    display: inline;
+    padding: 3.5%;
+}
+
+
+.posts {
+    background-color: white;
+    color: blueviolet;
+    align-items: center;
+    padding: 2%;
+    width: 80%;
+    margin: 5%;
+}
+
+div {
+    width: 100%;
+}
+
+img {
+    width: 100%;
+}
+
+h1 {
+    text-align: center;
+}
+
