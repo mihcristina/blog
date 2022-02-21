@@ -24,6 +24,12 @@ ul li {
     padding: 3.5%;
 }
 
+@media(max-width: 700px) {
+    ul li {
+        padding: 0.5;
+    }
+}
+
 
 .posts {
     background-color: white;
@@ -31,7 +37,9 @@ ul li {
     align-items: center;
     padding: 2%;
     width: 80%;
-    margin: 5%;
+    margin: 8%;
+    border-radius: 0.5%;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
 }
 
 div {
